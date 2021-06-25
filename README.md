@@ -18,7 +18,7 @@ Hi, i'm Gabriel Madeira, actually i am a BackEnd WordPress developer from Brazil
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeiira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madeiira&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 
