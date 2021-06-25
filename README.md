@@ -1,6 +1,6 @@
 # Madeiira
 ### Olá a todos, Sou [Gabriel!](https://github.com/Madeiira) 👋
-
+<center>
 
 <br />
 <br />
@@ -23,4 +23,4 @@ Olá, sou Gabriel Madeira, atualmente um estágiario de desenvolvimento BackEnd 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madeiira&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 
-
+</center>
