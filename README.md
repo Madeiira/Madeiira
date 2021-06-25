@@ -5,7 +5,7 @@
 <br />
 <br />
 
-Olá, sou Gabriel Madeira, atualmente um estágiario de desenvolvimento BackEnd do Brasil.
+Olá, sou Gabriel Madeira, atualmente um estágiario de desenvolvimento BackEnd WordPress do Brasil.
 
 
 - 🌱 Atualmente estou estudando mais PHP e JavaScript.
