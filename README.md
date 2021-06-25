@@ -1,15 +1,15 @@
 # Madeiira
-### Olá a todos, Sou [Gabriel!](https://github.com/Madeiira) 👋
+### Hello there, i'm [Gabriel!](https://github.com/Madeiira) 👋
 <center>
 
 <br />
 
-Olá, sou Gabriel Madeira, atualmente um estágiario de desenvolvimento BackEnd WordPress do Brasil.
+Hi, i'm Gabriel Madeira, actually i am a BackEnd WordPress developer from Brazil.
 
 
-- 🌱 Atualmente estou estudando mais PHP e JavaScript.
+- 🌱 I'm currently studying PHP and JavaScript.
 
-**Linguagens e Ferramentas:**  
+**Languages ​​and Tools:**  
 
  ![js](https://img.shields.io/badge/Javascript%20-%2320232a.svg?&style=flat-square&logo=javascript&logoColor=%2yellow)
 ![PHP](https://img.shields.io/badge/PHP%20-%2320232a.svg?&style=flat-square&logo=PHP&logoColor=%2yellow)
