@@ -3,7 +3,6 @@
 <center>
 
 <br />
-<br />
 
 Olá, sou Gabriel Madeira, atualmente um estágiario de desenvolvimento BackEnd WordPress do Brasil.
 
