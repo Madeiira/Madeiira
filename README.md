@@ -25,3 +25,4 @@ Olá, sou Gabriel Madeira, atualmente um estágiario de desenvolvimento BackEnd 
 ![js](https://img.shields.io/badge/Javascript%20-%2320232a.svg?&style=flat-square&logo=javascript&logoColor=%2yellow)
 ![PHP](https://img.shields.io/badge/PHP%20-%2320232a.svg?&style=flat-square&logo=PHP&logoColor=%2yellow)
 ![java](https://img.shields.io/badge/java%20-%2320232a.svg?&style=flat-square&logo=java)
+![CSS](https://img.shields.io/badge/CSS%20-%2320232a.svg?&style=flat-square&logo=CSS)
