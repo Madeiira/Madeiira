@@ -22,27 +22,27 @@ Olá, sou Gabriel Madeira, atualmente um estágiario de desenvolvimento BackEnd 
 
 <!--- 
   if you have forked this to use on your profile, 
-  Change the `github-readme-stats.Madeiira.vercel.app` to `github-readme-stats.vercel.app` 
+  Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-<!-- Change the `github-readme-stats.Madeiira.vercel.app` to `github-readme-stats.vercel.app`  -->
+<!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 [github-readme-stats](https://github.com/Madeiira/github-readme-stats)*
 
 
 <a href="https://github.com/Madeiira/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.Madeiira.vercel.app/api?username=Madeiira&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madeiira&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/Madeiira/github-readme-stats">
-  <!-- Change the `github-readme-stats.Madeiira.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Madeiira.vercel.app/api/top-langs/?username=Madeiira&layout=compact&theme=material-palenight" />
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madeiira&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/Madeiira/github-readme-stats">
-  <!-- Change the `github-readme-stats.Madeiira.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Madeiira.vercel.app/api/pin/?username=Madeiira&repo=github-readme-stats&theme=material-palenight" />
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Madeiira&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/Madeiira/Madeiira.github.io">
-  <!-- Change the `github-readme-stats.Madeiira.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.Madeiira.vercel.app/api/pin/?username=Madeiira&repo=Madeiira.github.io&theme=material-palenight" />
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Madeiira&repo=Madeiira.github.io&theme=material-palenight" />
 </a>
