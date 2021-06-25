@@ -8,6 +8,7 @@ Olá, sou Gabriel Madeira, atualmente um estágiario de desenvolvimento BackEnd 
 
 
 - 🌱 Atualmente estou estudando mais PHP e JavaScript.
+
 **Linguagens e Ferramentas:**  
 
 ![js](https://img.shields.io/badge/Javascript%20-%2320232a.svg?&style=flat-square&logo=javascript&logoColor=%2yellow)
