@@ -16,6 +16,7 @@ Hi, i'm Gabriel Madeira, actually i am a BackEnd WordPress developer from Brazil
 ![java](https://img.shields.io/badge/java%20-%2320232a.svg?&style=flat-square&logo=java)
 ![css](https://img.shields.io/badge/CSS%20-%2320232a.svg?&style=flat-square&logo=css)
 ![laravel](https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=flat-square&logo=laravel)
+![blade](https://img.shields.io/badge/blade%20-%2320232a.svg?&style=flat-square&logo=blade)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeiira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
