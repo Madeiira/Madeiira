@@ -16,7 +16,7 @@ Estou sempre em busca de novos desafios e oportunidades para continuar aprendend
 
 Estou disponível para discutir quaisquer projetos ou oportunidades relacionadas ao desenvolvimento web e Git. Vamos crescer e ter sucesso juntos!
 
-**Languages ​​and Tools:**  
+**Linguagens de programação ​​e Ferramentas:**  
 
 
 ![Progress](https://img.shields.io/badge/progress%20-%2320232a.svg?&style=flat-square&logo=progress)
@@ -31,8 +31,6 @@ Estou disponível para discutir quaisquer projetos ou oportunidades relacionadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeiira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madeiira&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 </center>
