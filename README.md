@@ -17,6 +17,8 @@ Estou sempre em busca de novos desafios e oportunidades para continuar aprendend
 
 Estou disponível para discutir quaisquer projetos ou oportunidades relacionadas ao desenvolvimento web e Git. Vamos crescer e ter sucesso juntos!
 
+Atualmente estou estudando PHP e Docker
+
 **Linguagens de programação ​​e Ferramentas:**  
 
 
