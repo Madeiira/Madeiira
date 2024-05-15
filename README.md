@@ -4,11 +4,12 @@
 
 <br />
 
-Sou um desenvolvedor com experiência em diversos projetos de desenvolvimento web 
-Quero assim informar que comecei minha carreira como estudante de desenvolvimento web e trabalhei como desenvolvedor em tempo integral em projetos de sites WordPress. Com o tempo, fui promovido ao cargo de Desenvolvedor Trainee, o que me permitiu ampliar minhas habilidades e conhecimentos.
-Durante esse período, tive a oportunidade de trabalhar com diversas ferramentas e tecnologias como Laravel e SQL Server. Essa experiência apoiou meu desenvolvimento profissional assim me ajudou a melhorar minhas habilidades técnicas.
+Sou um desenvolvedor com experiência em vários projetos de desenvolvimento web. Adiciono que quis seguir uma carreira como estudante em desenvolvimento web no inicio, posteriormente trabalhei como desenvolvedor a tempo integral em projetos de sites WordPress. 
 
-Tive também a oportunidade de trabalhar em uma empresa onde utilizamos Progress 4GL para criação de relatórios que alimentavam o sistema ERP. Como parte disso, usei a metodologia ágil Scrum, que melhorou significativamente a eficiência.
+Com o tempo, fui promovido a Desenvolvedor Trainee que acrescentou e muito minhas habilidades e conhecimentos. 
+Também tive a oportunidade de utilizar várias ferramentas e tecnologias muito possíveis como Laravel e SQL Server. 
+O conhecimento obtido apoiou meu crescimento profissional e fortaleceu minhas capacidades técnicas. 
+Trabalhei numa empresa em que utilizámos Progress 4GL para criar relatórios agradáveis à alimentação de dados do sistema ERP. Para este fim, trabalhamos segundo a metodologia de metodologia ágil Scrum, que melhorou significativamente a eficiência.
 
 Ao longo desta experiência, o Git desempenhou um papel importante no controle de versão e na colaboração com os membros da equipe. Adquiri habilidades usando a integração Git e Azure para revisar e sincronizar código de diferentes aplicações. 
 
