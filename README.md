@@ -6,7 +6,7 @@
 
 Sou um desenvolvedor com experiência em vários projetos de desenvolvimento web. Adiciono que quis seguir uma carreira como estudante em desenvolvimento web no inicio, posteriormente trabalhei como desenvolvedor a tempo integral em projetos de sites WordPress. 
 
-Com o tempo, fui promovido a Desenvolvedor Trainee que acrescentou e muito minhas habilidades e conhecimentos. 
+Com o tempo, fui promovido a Desenvolvedor PHP Junior que acrescentou e muito minhas habilidades e conhecimentos. 
 Também tive a oportunidade de utilizar várias ferramentas e tecnologias muito possíveis como Laravel e SQL Server. 
 O conhecimento obtido apoiou meu crescimento profissional e fortaleceu minhas capacidades técnicas. 
 Trabalhei numa empresa em que utilizámos Progress 4GL para criar relatórios agradáveis à alimentação de dados do sistema ERP. Para este fim, trabalhamos segundo a metodologia de metodologia ágil Scrum, que melhorou significativamente a eficiência.
