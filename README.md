@@ -17,14 +17,14 @@ Estou sempre em busca de novos desafios e oportunidades para continuar aprendend
 
 Estou disponível para discutir quaisquer projetos ou oportunidades relacionadas ao desenvolvimento web e Git. Vamos crescer e ter sucesso juntos!
 
-Atualmente estou estudando PHP e Docker
+Atualmente estou estudando node.js e Docker
 
 **Linguagens de programação ​​e Ferramentas:**  
 
 
 ![Progress](https://img.shields.io/badge/progress%20-%2320232a.svg?&style=flat-square&logo=progress)
 ![GIT](https://img.shields.io/badge/git%20-%2320232a.svg?&style=flat-square&logo=git)
-![ts](https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=flat-square&logo=typescript&logoColor=%2yellow)
+![node.js](img.shields.io/badge/node.js%20-%2320232a.svg?&style=flat-square&logo=node.js&logoColor=%2yellow)
 ![js](https://img.shields.io/badge/Javascript%20-%2320232a.svg?&style=flat-square&logo=javascript&logoColor=%2yellow)
 ![PHP](https://img.shields.io/badge/PHP%20-%2320232a.svg?&style=flat-square&logo=PHP&logoColor=%2yellow)
 ![css](https://img.shields.io/badge/CSS%20-%2320232a.svg?&style=flat-square&logo=css)
