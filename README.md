@@ -29,7 +29,6 @@ Atualmente estou estudando node.js e Docker
 ![PHP](https://img.shields.io/badge/PHP%20-%2320232a.svg?&style=flat-square&logo=PHP&logoColor=%2yellow)
 ![css](https://img.shields.io/badge/CSS%20-%2320232a.svg?&style=flat-square&logo=css)
 ![laravel](https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=flat-square&logo=laravel)
-![blade](https://img.shields.io/badge/blade%20-%2320232a.svg?&style=flat-square&logo=blade)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeiira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
