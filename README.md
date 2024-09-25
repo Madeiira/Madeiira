@@ -21,14 +21,14 @@ Atualmente estou estudando node.js e Docker
 
 **Linguagens de programação ​​e Ferramentas:**  
 
-
-![Progress](https://img.shields.io/badge/progress%20-%2320232a.svg?&style=flat-square&logo=progress)
 ![GIT](https://img.shields.io/badge/git%20-%2320232a.svg?&style=flat-square&logo=git)
-![node.js](img.shields.io/badge/node.js%20-%2320232a.svg?&style=flat-square&logo=node.js&logoColor=%2yellow)
 ![js](https://img.shields.io/badge/Javascript%20-%2320232a.svg?&style=flat-square&logo=javascript&logoColor=%2yellow)
-![PHP](https://img.shields.io/badge/PHP%20-%2320232a.svg?&style=flat-square&logo=PHP&logoColor=%2yellow)
+![node.js](img.shields.io/badge/node.js%20-%2320232a.svg?&style=flat-square&logo=node.js&logoColor=%2yellow)
 ![css](https://img.shields.io/badge/CSS%20-%2320232a.svg?&style=flat-square&logo=css)
+![css](https://img.shields.io/badge/html%20-%2320232a.svg?&style=flat-square&logo=html)
+![PHP](https://img.shields.io/badge/PHP%20-%2320232a.svg?&style=flat-square&logo=PHP&logoColor=%2yellow)
 ![laravel](https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=flat-square&logo=laravel)
+![Progress](https://img.shields.io/badge/progress%20-%2320232a.svg?&style=flat-square&logo=progress)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeiira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
