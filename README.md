@@ -23,7 +23,7 @@ Atualmente estou estudando node.js e Docker
 
 ![GIT](https://img.shields.io/badge/git%20-%2320232a.svg?&style=flat-square&logo=git)
 ![js](https://img.shields.io/badge/Javascript%20-%2320232a.svg?&style=flat-square&logo=javascript&logoColor=%2yellow)
-![node.js](img.shields.io/badge/node.js%20-%2320232a.svg?&style=flat-square&logo=node.js)
+![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![css](https://img.shields.io/badge/CSS%20-%2320232a.svg?&style=flat-square&logo=css)
 ![css](https://img.shields.io/badge/html%20-%2320232a.svg?&style=flat-square&logo=html)
 ![PHP](https://img.shields.io/badge/PHP%20-%2320232a.svg?&style=flat-square&logo=PHP&logoColor=%2yellow)
