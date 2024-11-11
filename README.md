@@ -17,7 +17,7 @@ Estou sempre em busca de novos desafios e oportunidades para continuar aprendend
 
 Estou disponível para discutir quaisquer projetos ou oportunidades relacionadas ao desenvolvimento web e Git. Vamos crescer e ter sucesso juntos!
 
-Atualmente estou estudando node.js e Docker
+Atualmente estou estudando node.js, express, html, bootstrap e javascript
 
 **Linguagens de programação ​​e Ferramentas:**  
 
